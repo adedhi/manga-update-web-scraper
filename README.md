@@ -12,7 +12,10 @@ A Python program for tracking and receiving updates on new manga chapters from t
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 - [Disclaimer](#disclaimer)
+
+------------------------------
 
 # Manga4Life Updates Tracker
 
@@ -52,6 +55,8 @@ Manga4Life Updates Tracker is a Python program that allows users to track update
 4. Delete manga titles from the manga title list if desired.
 5. View the manga title list to see the currently tracked manga titles.
 
+------------------------------
+
 # Contributing
 Contributions to this project are welcome. Please feel free to contribute.
 
@@ -60,6 +65,9 @@ This project is licensed under the MIT License - learn more about it [here](LICE
 
 # Acknowledgements
 - The program depends on the Manga4Life website for retrieving manga information.
+
+# Contact
+If you have any questions, suggestions, or feedback, feel free to reach out to me at dadeshvir@gmail.com
 
 # Disclaimer
 This program is intended for educational and technical demonstration purposes only. It was developed to showcase programming skills and does not endorse or promote any form of illegal or unethical activity, including accessing unofficial scans or translations of manga.
