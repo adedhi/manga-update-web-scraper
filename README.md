@@ -47,7 +47,7 @@ Manga4Life Updates Tracker is a Python program that allows users to track update
 
 ## Usage
 1. Run the python file (main.py)
-2. Add manga titles to the manga title list by specifying the URL title of the manga on Manga4Life (e.g., for the URL https://manga4life.com/manga/Jujutsu-Kaisen, you would input Jujutsu-Kaisen).
+2. Add manga titles to the manga title list by specifying the URL title of the manga on Manga4Life.
 3. Run the program to check for updates. It will scrape the Manga4Life website and display any new chapters for the tracked manga titles.
 4. Delete manga titles from the manga title list if desired.
 5. View the manga title list to see the currently tracked manga titles.
