@@ -18,7 +18,7 @@ A Python program for tracking and receiving updates on new manga chapters from t
 
 ![GitHub](https://img.shields.io/github/license/adedhi/manga4life-updates-tracker)
 
-Manga4Life Updates Tracker is a Python program that allows users to track updates for their favorite manga titles by scraping the Manga4Life website. It provides an easy way to stay updated on new manga chapters and read them on the click of a button.
+Manga4Life Updates Tracker is a Python program that allows users to track updates for their favourite manga titles by scraping the Manga4Life website. It provides an easy way to stay updated on new manga chapters and read them on the click of a button.
 
 ## Features
 - Run the program to check for updates on the Manga4Life website and display the updates
