@@ -14,7 +14,7 @@
 
 # Manga Update Web Scraper
 
-![GitHub](https://img.shields.io/github/license/adedhi/manga4life-updates-tracker)
+![GitHub](https://img.shields.io/github/license/adedhi/manga-update-web-scraper)
 
 Manga Update Web Scraper is a Python program that allows users to track updates for their favourite manga titles by scraping the Manga4Life.com website. It provides an easy way to stay updated on new manga chapters and read them on the click of a button.
 
