@@ -2,9 +2,9 @@
 # Date: July 9, 2023
 
 """
-Manga Chapter Updates Tracker
+Manga Update Web Scraper
 
-This program allows users to track updates for their favorite manga titles by scraping the Manga4Life website. It uses Selenium for web scraping, BeautifulSoup for parsing web page contents, and various other libraries for handling date/time, file operations, and parsing.
+This program allows users to track updates for their favorite manga titles by scraping the Manga4Life.com website. It uses Selenium for web scraping, BeautifulSoup for parsing web page contents, and various other libraries for handling date/time, file operations, and parsing.
 
 The program provides the following features:
 - Add manga titles to a manga title list
