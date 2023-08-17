@@ -1,6 +1,5 @@
 # By: Adeshvir Dhillon
 # Date: July 9, 2023
-# Edited: Aug 17, 2023
 
 """
 Manga Chapter Updates Tracker
